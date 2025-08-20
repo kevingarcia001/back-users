@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE `user` MODIFY `Estado` INTEGER NOT NULL DEFAULT 1;
